@@ -43,9 +43,10 @@ body{
 .content1{
     width: 1519.2px;
     height: 600px;
-    background: url(/image_resources/spot.png);
+    background: url(Images/spot.png);
     background-repeat: no-repeat;
     background-size: 1520px;
+   
 }
 .content1{
     z-index: 10;
@@ -100,7 +101,7 @@ body{
     transform: scale(1.03);
     
 }
-.why{  
+.why{
     text-align: center;
     font-family: sans-serif;
     font-weight: bolder;
@@ -194,7 +195,7 @@ p{
 .content5{
     width: 1519.2px;
     height: 450px;
-    background: url(/image_resources/bg.png);
+    background: url(Images/bg.png);
     background-size: contain;
 }
 .ready{
