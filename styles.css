@@ -76,7 +76,7 @@ body{
 
 .para1{
     font-size: 64px;
-    font-family: 'circular_bd';
+    font-family: 'circular_bl';
     font-weight: 900;
     color: white;
 
@@ -103,9 +103,9 @@ body{
 }
 .why{
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'circular_bl';
     font-weight: bolder;
-    font-size: 35px;
+    font-size: 40px;
 }
 .logos{
     display: flex;
@@ -115,6 +115,9 @@ body{
     margin-left: 140px;
     justify-content: space-evenly;
     align-items: center;
+}
+.lgog{
+    font-size: 21px;
 }
 .why1{
     width: 1519.2px;
@@ -132,14 +135,13 @@ body{
 .logo1,.logo2,.logo3,.logo4{
     height: 330px;
     width: 220px;
-    
+    font-size: 16px;
 }
 p{
     text-align: center;
-    font-family: system-ui;
     font-size: 15px;
     font-weight: 600;text-align: center;
-    font-family: system-ui;
+    font-family: 'circular_book';
 }
 .content3{
     width: 1519.2px;
@@ -155,14 +157,14 @@ p{
 .para2{
     text-align: center;
     font-size: 46px;
-    font-family: system-ui;
+    font-family: 'circular_book';
     font-weight: bold;
     color: white;
     padding-top: 161px;
 }
 #main{
     font-weight: 700;
-    font-family: system-ui;
+    font-family: 'circular_book';
     font-size: 40px;
 
 }
@@ -177,7 +179,7 @@ p{
 }
 #sub{
     text-align: left;
-    font-family: system-ui;
+    font-family: 'circular_book';
     font-weight: 800;
     font-size: 16px;
     padding-left: 200px;
@@ -204,7 +206,7 @@ p{
     font-size: 85px;
     text-align: center;
     color: white;
-    font-family: system-ui;
+    font-family: 'circular_book';
     padding-top: 119px;
     font-weight: 700;
     margin: 0px;
@@ -236,7 +238,7 @@ p{
 .top{
     text-align: left;
     color: grey;
-    font-family: system-ui;
+    font-family: 'circular_book';
     padding-left: 0px;
     font-weight: 700;
     font-size: 13px;
@@ -248,7 +250,7 @@ ul{
 .down{
     text-align: left;
     color: white;
-    font-family: system-ui;
+    font-family: 'circular_book';
     font-weight: 400;
     font-size: 16px;
     margin: 0px;
@@ -303,7 +305,7 @@ a{
     text-decoration: none;
     color: grey;
     font-size: 13px;
-    font-family: system-ui;
+    font-family: 'circular_book';
 }
 .foot{
     padding-left: 187px;
