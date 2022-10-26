@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'circular_book';
+    src: url('circularspotify-ui-latin-os2v3-book-webfont.woff2') format('woff2'),
+         url('circularspotify-ui-latin-os2v3-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+@font-face {
+    font-family: 'circular_bl';
+    src: url('circularspotify-ui-latin-os2v3-black-webfont.woff2') format('woff2'),
+         url('circularspotify-ui-latin-os2v3-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+@font-face {
+    font-family: 'circular_bd';
+    src: url('circularspotify-ui-latin-os2v3-bold-webfont.woff2') format('woff2'),
+         url('circularspotify-ui-latin-os2v3-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

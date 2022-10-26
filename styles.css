@@ -9,6 +9,7 @@
 }
 body{
     margin: 0px;
+    font-family: 'circular_book';
 }
 .logo{
     height: 40px;
@@ -19,9 +20,9 @@ body{
 #head{
     text-decoration: none;
     color: #ffffff;
-    font-weight: bold;
-    font-size: 14px;
-    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'circular_book';
 }
 .options{
     display: flex;
@@ -46,7 +47,6 @@ body{
     background: url(https://i.ibb.co/gr19k99/spot.png);
     background-repeat: no-repeat;
     background-size: 1520px;
-   
 }
 .content1{
     z-index: 10;
@@ -75,9 +75,9 @@ body{
 }
 
 .para1{
-    font-size: 57px;
-    font-family: sans-serif;
-    font-weight: 700;
+    font-size: 64px;
+    font-family: 'circular_bd';
+    font-weight: 900;
     color: white;
 
 }
@@ -124,7 +124,6 @@ body{
     font-weight: bolder;
 }
 #img{
-   
     margin-right: auto;
     margin-left: 44px;
     width: auto;
@@ -151,7 +150,7 @@ p{
     width: 1519.2px;
     height: 585.5px;
     background: white;
-
+    font-family: 'circular_book';
 }
 .para2{
     text-align: center;
@@ -172,6 +171,9 @@ p{
     flex-direction: column;
     padding-left: 75px;
     padding-right: 90px;
+}
+#sub:hover{
+    text-decoration: underline;
 }
 #sub{
     text-align: left;
